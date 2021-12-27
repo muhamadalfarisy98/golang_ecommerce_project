@@ -1,5 +1,5 @@
-# Final Project - BDS Sanbercode Golang Batch 30
-Final project: **Golang Backend Development Batch 30** :wave:
+# Final Project
+Final project: **Golang Backend Development** :wave:
 
 ## Informasi Project
 - Tema : E-commerce

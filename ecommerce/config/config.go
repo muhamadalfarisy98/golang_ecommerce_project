@@ -10,7 +10,7 @@ import (
 
 func ConnectDataBase() *gorm.DB {
 	username := "root"
-	password := "enjoy66471"
+	password := ""
 	host := "tcp(127.0.0.1:3306)"
 	database := "db_ecommerce"
 

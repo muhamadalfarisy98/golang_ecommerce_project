@@ -9,7 +9,7 @@ Final project: **Golang Backend Development** :wave:
 ## Description
 Berisikan implementasi aplikasi _**Backend**_ pada bahasa pemrograman Golang dan juga _**microservice**_ dalam bentuk REST API. Projek ini sendiri berupa database management sistem untuk jual beli online toko pakaian. 
 
-## 1. Link deploy/hosting Heroku
+## 1. Link deploy/hosting Heroku (deprecated)
 > https://eclothestore-faris.herokuapp.com/swagger/index.html#/
 
 ## 2. register, login, change password
